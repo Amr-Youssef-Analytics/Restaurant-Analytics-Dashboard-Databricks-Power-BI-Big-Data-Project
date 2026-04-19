@@ -62,9 +62,6 @@ restaurant-analytics-project/
 │   └── behavior.png
 │
 └── README.md
-
-
-
 ---
 ## 👤 Author
 **Amr Youssef**  
