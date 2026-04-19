@@ -42,9 +42,8 @@ Built using **Databricks** for data processing and **Power BI** for interactive 
 - Fast data processing  
 - Business-ready insights  
 
----
+-----
 ## 🏗️ Architecture
-
 restaurant-analytics-project/
 ├── data/
 │   ├── raw (CSV, JSON)
@@ -62,7 +61,8 @@ restaurant-analytics-project/
 │   └── behavior.png
 │
 └── README.md
----
+-----
+
 ## 👤 Author
 **Amr Youssef**  
 Data Analyst | Power BI | Databricks  
