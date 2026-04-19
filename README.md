@@ -43,25 +43,26 @@ Built using **Databricks** for data processing and **Power BI** for interactive 
 - Business-ready insights  
 
 ## 🏗️ Architecture
----
+
+```
 restaurant-analytics-project/
 ├── data/
 │   ├── raw (CSV, JSON)
 │   └── processed (Databricks Tables)
-│
+
 ├── notebooks/
 │   └── data_preparation.sql
-│
+
 ├── powerbi/
 │   └── dashboard.pbix
-│
+
 ├── screenshots/
 │   ├── overview.png
 │   ├── sales.png
 │   └── behavior.png
-│
+
 └── README.md
----
+```
 
 ## 👤 Author
 **Amr Youssef**  
