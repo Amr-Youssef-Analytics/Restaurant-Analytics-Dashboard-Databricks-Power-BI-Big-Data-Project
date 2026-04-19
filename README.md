@@ -41,9 +41,9 @@ Built using **Databricks** for data processing and **Power BI** for interactive 
 - Scalable big data pipeline  
 - Fast data processing  
 - Business-ready insights  
-
 -----
 ## 🏗️ Architecture
+-----
 restaurant-analytics-project/
 ├── data/
 │   ├── raw (CSV, JSON)
