@@ -44,7 +44,6 @@ Built using **Databricks** for data processing and **Power BI** for interactive 
 
 ## 🏗️ Architecture
 ---
-
 restaurant-analytics-project/
 ├── data/
 │   ├── raw (CSV, JSON)
@@ -62,7 +61,6 @@ restaurant-analytics-project/
 │   └── behavior.png
 │
 └── README.md
-
 ---
 
 ## 👤 Author
