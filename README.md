@@ -166,11 +166,10 @@ This analysis enables **data-driven decision making** to improve revenue, optimi
 
 ---
 
-## 📸 Dashboard Preview
-
-![Overview](screenshots/overview.png)
-![Sales Analysis](screenshots/sales.png)
-![Customer Behavior](screenshots/behavior.png)
+## 📸 Preview
+![Overview](screenshots/Overview.png)  
+![Sales](screenshots/Sales_Analysis.png)  
+![Behavior](screenshots/Customer_Behavior.png)
 
 ---
 
